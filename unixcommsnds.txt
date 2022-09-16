@@ -1,0 +1,69 @@
+sudo su -s /bin/bash - ereg (IBM Side)
+sudo su -s /bin/bash - ocnupld1 (Ocean Side)
+ ##  su - become another user
+ ##  -s run this shell when I become other user - eg. bash shell
+ ##  - execute the users profile for user name e.g. ereg
+
+sudo su
+ ## To become root (From my prompt no ereg)
+
+vi filename.txt
+ ## creates a file named filename.txt in current folder and opens vi editor
+ ## i = put into insert mode
+ ## esc key - exit insert mode back to command mode
+ ## :w = write/save
+ ## :q = Quit/Exit
+ ## :wq = Write & then quit
+
+
+mv filename1.txt filename2.txt
+ ## Renames filename1.txt to filename2.txt if in current folder.
+ ## If filename1 or filename2 are not in or to be in current folder, include path.
+
+chmod 777 filename.txt
+ ## change permissions so I can copy it via winSCP to my local
+
+cp filename.txt filename1.txt
+ ## copy the filename.txt to filename1.txt
+ ## can include paths in the filename
+
+#### Running the ID Upload Utility
+ ## need to be logged in via sudo to ereg at the top of page.
+ ./uploadutility.sh -S S -O -f uploadProject/FileName.txt &
+ ./uploadutility.sh -S S -s ABC123 -t ncodb/nco2db (Tag option)
+	## Can change the properties file to run for single user then change back prior to -t tag change. 
+ ## replace FileName.txt with the name of the file you wish to use for upload.
+ ## The & at the end will force code to execute in the background
+
+#### Monitoring log file for ID Upload Utility
+ ## Needs to be in logs folder
+ tail LogFileName.log
+  ## will show last 10 lines
+ tail -f LogFileName.log
+  ## will show last 10 lines of log file then keep refreshing for new data.
+
+#### Strings to look for
+- Unable to extract ID file for $sn 
+- Uploaded shortname: $sn | grep successfully
+- ID file already in vault for: $sn
+
+#### Chron Tab to see what jobs running on server.
+-  sudo to root ## sudo root
+-  crontab -l
+
+### Checking Ocean ID Vault for Shortname
+-  db2 "select rundate,serialnumber,idfile,status from rawdatalotusnotes  where shortname = '<Shortname> and domain = 'Ocean'"
+
+
+01.13.22 - PWD for OCNUPLD1 Changed to ProjectAustin1@#
+
+### To stop a server instance - Example PWReset1(-4) (IBM) or OCPWreset1/2 (Ocean)
+- from /home/pwreset1/pwreset structure
+- Check logs first to make sure server is not in middle of processing
+- ./stop-server.sh (this .sh file should be in place)
+- ./start-server.sh (this .sh file should be in place)
+
+### To enable short cuts and intelligent word/phrase sensing (auto complete)
+- set -o vi
+- ## Need to figure out what key or key combination I should be using after this.
+

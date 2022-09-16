@@ -1,0 +1,20 @@
+## Getting ID File/Pwd from Legacy Domain
+AP - ACNGR_SOAPSCNIDMA
+Brazil - LBRSP_SOLNADM
+JP - JJPDL_DSDalian_Japan
+US/MX - DAAT team - John Bair - William.Bair1@ibm.com & NUS_W_NOTEUSID
+CA - Brain Barron - barron@ca.ibm.com
+
+## If legacy Domain not in list above
+## Get with GEO IAM Team for ID File/pwd.
+ph.ibm.com(Philippines)
+cn.ibm.com(China)
+in.ibm.com (India) 
+cr.ibm.com (Costa Rica)
+eg.ibm.com (Egypt)
+sg.ibm.com (Singapore)
+
+## If user not in out NCOUARDB but in IBM US NAB
+DAAT support queue NUS_W_NOTEUSID
+
+

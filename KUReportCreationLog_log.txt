@@ -1,0 +1,1126 @@
+9/9/2022 2:05:40 PM  ::  >  Log started for agent KU_Report_n_Process
+9/9/2022 2:05:41 PM  ::  >  Input Path and File - C:\Users\C-U9CF897\Documents\ScriptAgents\KUReportCreation\KenPfaff_08-02-22_ToProcess_Orig.csv
+9/9/2022 2:05:41 PM  ::  >  Input Filed Opened - KenPfaff_08-02-22_ToProcess_Orig.csv
+9/9/2022 2:05:41 PM  ::  >  setupOutputStream - Start
+9/9/2022 2:05:41 PM  ::  >  Record # 0000001 : Full Name : Paul Papas Communications : UID : C-KM92897
+9/9/2022 2:05:41 PM  ::  >  processRecord    : UID for Searching : C-KM92897
+9/9/2022 2:05:41 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:05:41 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:41 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:41 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:41 PM  ::  >  NCOUAR Active - Short Name - PAPASCOM
+9/9/2022 2:05:41 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:05:41 PM  ::  >  NCOUAR Active - Serial Number - C-KM92897
+9/9/2022 2:05:42 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:43 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:43 PM  ::  >  ### cNumber    : C-KM92897
+9/9/2022 2:05:43 PM  ::  >  Record # 0000002 : Full Name : AAD Administrator : UID : 45608616
+9/9/2022 2:05:43 PM  ::  >  processRecord    : UID for Searching : 45608616
+9/9/2022 2:05:43 PM  ::  >  processRecord    : New UID Value : '045608616
+9/9/2022 2:05:43 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:43 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:43 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:43 PM  ::  >  NCOUAR Active - Short Name - AADADMIN
+9/9/2022 2:05:43 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:43 PM  ::  >  NCOUAR Active - Serial Number - 045608616
+9/9/2022 2:05:44 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:44 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:44 PM  ::  >  ### cNumber    : 045608616
+9/9/2022 2:05:44 PM  ::  >  Record # 0000003 : Full Name : ANZ Security CAS Ops : UID : 41936616
+9/9/2022 2:05:44 PM  ::  >  processRecord    : UID for Searching : 41936616
+9/9/2022 2:05:44 PM  ::  >  processRecord    : New UID Value : '041936616
+9/9/2022 2:05:44 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:44 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:44 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:44 PM  ::  >  NCOUAR Active - Short Name - AU041936
+9/9/2022 2:05:44 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:44 PM  ::  >  NCOUAR Active - Serial Number - 041936616
+9/9/2022 2:05:45 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:45 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:45 PM  ::  >  ### cNumber    : 041936616
+9/9/2022 2:05:45 PM  ::  >  Record # 0000004 : Full Name : CFLADM1 : UID : 42836616
+9/9/2022 2:05:45 PM  ::  >  processRecord    : UID for Searching : 42836616
+9/9/2022 2:05:45 PM  ::  >  processRecord    : New UID Value : '042836616
+9/9/2022 2:05:45 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:45 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:45 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:45 PM  ::  >  NCOUAR Active - Short Name - CFLADM1
+9/9/2022 2:05:45 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:45 PM  ::  >  NCOUAR Active - Serial Number - 042836616
+9/9/2022 2:05:46 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:46 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:46 PM  ::  >  ### cNumber    : 042836616
+9/9/2022 2:05:46 PM  ::  >  Record # 0000005 : Full Name : CFLADM2 : UID : 42835616
+9/9/2022 2:05:46 PM  ::  >  processRecord    : UID for Searching : 42835616
+9/9/2022 2:05:46 PM  ::  >  processRecord    : New UID Value : '042835616
+9/9/2022 2:05:46 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:46 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:46 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:47 PM  ::  >  NCOUAR Active - Short Name - CFLADM2
+9/9/2022 2:05:47 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:47 PM  ::  >  NCOUAR Active - Serial Number - 042835616
+9/9/2022 2:05:47 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:47 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:47 PM  ::  >  ### cNumber    : 042835616
+9/9/2022 2:05:47 PM  ::  >  Record # 0000006 : Full Name : CFLADM3 : UID : 42834616
+9/9/2022 2:05:47 PM  ::  >  processRecord    : UID for Searching : 42834616
+9/9/2022 2:05:47 PM  ::  >  processRecord    : New UID Value : '042834616
+9/9/2022 2:05:47 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:47 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:48 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:48 PM  ::  >  NCOUAR Active - Short Name - CFLADM3
+9/9/2022 2:05:48 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:48 PM  ::  >  NCOUAR Active - Serial Number - 042834616
+9/9/2022 2:05:48 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:48 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:48 PM  ::  >  ### cNumber    : 042834616
+9/9/2022 2:05:49 PM  ::  >  Record # 0000007 : Full Name : CFLADMN : UID : 42832616
+9/9/2022 2:05:49 PM  ::  >  processRecord    : UID for Searching : 42832616
+9/9/2022 2:05:49 PM  ::  >  processRecord    : New UID Value : '042832616
+9/9/2022 2:05:49 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:49 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:49 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:49 PM  ::  >  NCOUAR Active - Short Name - CFLADMN
+9/9/2022 2:05:49 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:49 PM  ::  >  NCOUAR Active - Serial Number - 042832616
+9/9/2022 2:05:49 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:49 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:49 PM  ::  >  ### cNumber    : 042832616
+9/9/2022 2:05:50 PM  ::  >  Record # 0000008 : Full Name : LMS HELP : UID : 97983616
+9/9/2022 2:05:50 PM  ::  >  processRecord    : UID for Searching : 97983616
+9/9/2022 2:05:50 PM  ::  >  processRecord    : New UID Value : '097983616
+9/9/2022 2:05:50 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:50 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:50 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:50 PM  ::  >  NCOUAR Active - Short Name - LMSHELP
+9/9/2022 2:05:50 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:50 PM  ::  >  NCOUAR Active - Serial Number - 097983616
+9/9/2022 2:05:50 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:51 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:51 PM  ::  >  ### cNumber    : 097983616
+9/9/2022 2:05:51 PM  ::  >  Record # 0000009 : Full Name : uwow001 : UID : 42792616
+9/9/2022 2:05:51 PM  ::  >  processRecord    : UID for Searching : 42792616
+9/9/2022 2:05:51 PM  ::  >  processRecord    : New UID Value : '042792616
+9/9/2022 2:05:51 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:51 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:51 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:51 PM  ::  >  NCOUAR Active - Short Name - UWOW001
+9/9/2022 2:05:51 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:51 PM  ::  >  NCOUAR Active - Serial Number - 042792616
+9/9/2022 2:05:52 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:52 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:52 PM  ::  >  ### cNumber    : 042792616
+9/9/2022 2:05:52 PM  ::  >  Record # 0000010 : Full Name : APS WTAAS Interface EOSE : UID : 46428616
+9/9/2022 2:05:52 PM  ::  >  processRecord    : UID for Searching : 46428616
+9/9/2022 2:05:52 PM  ::  >  processRecord    : New UID Value : '046428616
+9/9/2022 2:05:52 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:52 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:52 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:52 PM  ::  >  NCOUAR Active - Short Name - APSWTAAS
+9/9/2022 2:05:52 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:52 PM  ::  >  NCOUAR Active - Serial Number - 046428616
+9/9/2022 2:05:53 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:53 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:53 PM  ::  >  ### cNumber    : 046428616
+9/9/2022 2:05:53 PM  ::  >  Record # 0000011 : Full Name : FIW Administrator : UID : 45042616
+9/9/2022 2:05:53 PM  ::  >  processRecord    : UID for Searching : 45042616
+9/9/2022 2:05:53 PM  ::  >  processRecord    : New UID Value : '045042616
+9/9/2022 2:05:53 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:53 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:53 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:53 PM  ::  >  NCOUAR Active - Short Name - FIWADMN
+9/9/2022 2:05:54 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:54 PM  ::  >  NCOUAR Active - Serial Number - 045042616
+9/9/2022 2:05:54 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:54 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:54 PM  ::  >  ### cNumber    : 045042616
+9/9/2022 2:05:54 PM  ::  >  Record # 0000012 : Full Name : ARMS Admin AP South : UID : 42837616
+9/9/2022 2:05:54 PM  ::  >  processRecord    : UID for Searching : 42837616
+9/9/2022 2:05:54 PM  ::  >  processRecord    : New UID Value : '042837616
+9/9/2022 2:05:54 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:54 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:55 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:55 PM  ::  >  NCOUAR Active - Short Name - ARMSADM
+9/9/2022 2:05:55 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:55 PM  ::  >  NCOUAR Active - Serial Number - 042837616
+9/9/2022 2:05:55 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:55 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:55 PM  ::  >  ### cNumber    : 042837616
+9/9/2022 2:05:55 PM  ::  >  Record # 0000013 : Full Name : CDMS Data Conversion : UID : 99350616
+9/9/2022 2:05:55 PM  ::  >  processRecord    : UID for Searching : 99350616
+9/9/2022 2:05:55 PM  ::  >  processRecord    : New UID Value : '099350616
+9/9/2022 2:05:55 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:55 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:56 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:56 PM  ::  >  NCOUAR Active - Short Name - CDMS
+9/9/2022 2:05:56 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:56 PM  ::  >  NCOUAR Active - Serial Number - 099350616
+9/9/2022 2:05:56 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:56 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:56 PM  ::  >  ### cNumber    : 099350616
+9/9/2022 2:05:57 PM  ::  >  Record # 0000014 : Full Name : Functional ID UWTAAS1 : UID : 97938616
+9/9/2022 2:05:57 PM  ::  >  processRecord    : UID for Searching : 97938616
+9/9/2022 2:05:57 PM  ::  >  processRecord    : New UID Value : '097938616
+9/9/2022 2:05:57 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:57 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:57 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:57 PM  ::  >  NCOUAR Active - Short Name - UWTAAS1
+9/9/2022 2:05:57 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:57 PM  ::  >  NCOUAR Active - Serial Number - 097938616
+9/9/2022 2:05:57 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:58 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:58 PM  ::  >  ### cNumber    : 097938616
+9/9/2022 2:05:58 PM  ::  >  Record # 0000015 : Full Name : CDMSDESK APS : UID : 98296616
+9/9/2022 2:05:58 PM  ::  >  processRecord    : UID for Searching : 98296616
+9/9/2022 2:05:58 PM  ::  >  processRecord    : New UID Value : '098296616
+9/9/2022 2:05:58 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:58 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:58 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:58 PM  ::  >  NCOUAR Active - Short Name - APSCDMS
+9/9/2022 2:05:58 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:58 PM  ::  >  NCOUAR Active - Serial Number - 098296616
+9/9/2022 2:05:58 PM  ::  >  searchNABDB - Start
+9/9/2022 2:05:59 PM  ::  >  searchMatches - Start
+9/9/2022 2:05:59 PM  ::  >  ### cNumber    : 098296616
+9/9/2022 2:05:59 PM  ::  >  Record # 0000016 : Full Name : BOSS ANZ Support : UID : 45837616
+9/9/2022 2:05:59 PM  ::  >  processRecord    : UID for Searching : 45837616
+9/9/2022 2:05:59 PM  ::  >  processRecord    : New UID Value : '045837616
+9/9/2022 2:05:59 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:05:59 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:05:59 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:05:59 PM  ::  >  NCOUAR Active - Short Name - BOSSANZ
+9/9/2022 2:05:59 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:05:59 PM  ::  >  NCOUAR Active - Serial Number - 045837616
+9/9/2022 2:06:00 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:00 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:00 PM  ::  >  ### cNumber    : 045837616
+9/9/2022 2:06:00 PM  ::  >  Record # 0000017 : Full Name : CARS : UID : 99569616
+9/9/2022 2:06:00 PM  ::  >  processRecord    : UID for Searching : 99569616
+9/9/2022 2:06:00 PM  ::  >  processRecord    : New UID Value : '099569616
+9/9/2022 2:06:00 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:00 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:00 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:00 PM  ::  >  NCOUAR Active - Short Name - CARS
+9/9/2022 2:06:00 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:00 PM  ::  >  NCOUAR Active - Serial Number - 099569616
+9/9/2022 2:06:01 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:01 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:01 PM  ::  >  ### cNumber    : 099569616
+9/9/2022 2:06:01 PM  ::  >  Record # 0000018 : Full Name : South Administration CCSSHELP AP : UID : 44629616
+9/9/2022 2:06:01 PM  ::  >  processRecord    : UID for Searching : 44629616
+9/9/2022 2:06:01 PM  ::  >  processRecord    : New UID Value : '044629616
+9/9/2022 2:06:01 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:01 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:01 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:02 PM  ::  >  NCOUAR Active - Short Name - CCSSHELP
+9/9/2022 2:06:02 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:02 PM  ::  >  NCOUAR Active - Serial Number - 044629616
+9/9/2022 2:06:02 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:02 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:02 PM  ::  >  ### cNumber    : 044629616
+9/9/2022 2:06:02 PM  ::  >  Record # 0000019 : Full Name : RESO Lease Management : UID : 92248616
+9/9/2022 2:06:02 PM  ::  >  processRecord    : UID for Searching : 92248616
+9/9/2022 2:06:02 PM  ::  >  processRecord    : New UID Value : '092248616
+9/9/2022 2:06:02 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:02 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:03 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:03 PM  ::  >  NCOUAR Active - Short Name - ZEMAILR
+9/9/2022 2:06:03 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:03 PM  ::  >  NCOUAR Active - Serial Number - 092248616
+9/9/2022 2:06:03 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:03 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:03 PM  ::  >  ### cNumber    : 092248616
+9/9/2022 2:06:04 PM  ::  >  Record # 0000020 : Full Name : ifbuild : UID : 95296616
+9/9/2022 2:06:04 PM  ::  >  processRecord    : UID for Searching : 95296616
+9/9/2022 2:06:04 PM  ::  >  processRecord    : New UID Value : '095296616
+9/9/2022 2:06:04 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:04 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:04 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:04 PM  ::  >  NCOUAR Active - Short Name - IFBUILD
+9/9/2022 2:06:04 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:04 PM  ::  >  NCOUAR Active - Serial Number - 095296616
+9/9/2022 2:06:04 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:04 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:04 PM  ::  >  ### cNumber    : 095296616
+9/9/2022 2:06:05 PM  ::  >  Record # 0000021 : Full Name : Mallampati Nagendra : UID : 4G3797897
+9/9/2022 2:06:05 PM  ::  >  processRecord    : UID for Searching : 4G3797897
+9/9/2022 2:06:05 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:05 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:05 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:05 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:05 PM  ::  >  NCOUAR Deleted - Short Name - MALLAMPA
+9/9/2022 2:06:05 PM  ::  >  NCOUAR Deleted - Domain Name - IDPUS
+9/9/2022 2:06:05 PM  ::  >  NCOUAR Deleted - Serial Number - 4G3797897
+9/9/2022 2:06:05 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:05 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:05 PM  ::  >  ### cNumber    : 4G3797897
+9/9/2022 2:06:06 PM  ::  >  Record # 0000022 : Full Name : David Akayesu : UID : Y9DY80624
+9/9/2022 2:06:06 PM  ::  >  processRecord    : UID for Searching : Y9DY80624
+9/9/2022 2:06:06 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:06 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:06 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:06 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:06 PM  ::  >  NCOUAR Deleted - Short Name - ADavid
+9/9/2022 2:06:06 PM  ::  >  NCOUAR Deleted - Domain Name - IDPEM
+9/9/2022 2:06:06 PM  ::  >  NCOUAR Deleted - Serial Number - Y9DY80624
+9/9/2022 2:06:07 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:07 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:07 PM  ::  >  ### cNumber    : Y9DY80624
+9/9/2022 2:06:07 PM  ::  >  Record # 0000023 : Full Name : Kapu Sudhir : UID : C-CP26897
+9/9/2022 2:06:07 PM  ::  >  processRecord    : UID for Searching : C-CP26897
+9/9/2022 2:06:07 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:07 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:07 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:07 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:08 PM  ::  >  NCOUAR Deleted - Short Name - SUDHIR
+9/9/2022 2:06:08 PM  ::  >  NCOUAR Deleted - Domain Name - IDPUS
+9/9/2022 2:06:08 PM  ::  >  NCOUAR Deleted - Serial Number - C-CP26897
+9/9/2022 2:06:08 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:08 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:08 PM  ::  >  ### cNumber    : C-CP26897
+9/9/2022 2:06:08 PM  ::  >  Record # 0000024 : Full Name : Watson IT : UID : C-G8L8897
+9/9/2022 2:06:08 PM  ::  >  processRecord    : UID for Searching : C-G8L8897
+9/9/2022 2:06:08 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:08 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:08 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:09 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:09 PM  ::  >  NCOUAR Deleted - Short Name - WATSONIT
+9/9/2022 2:06:09 PM  ::  >  NCOUAR Deleted - Domain Name - IDPUS
+9/9/2022 2:06:09 PM  ::  >  NCOUAR Deleted - Serial Number - C-G8L8897
+9/9/2022 2:06:09 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:09 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:09 PM  ::  >  ### cNumber    : C-G8L8897
+9/9/2022 2:06:09 PM  ::  >  Record # 0000025 : Full Name : Veno Sharon : UID : C-213L897
+9/9/2022 2:06:09 PM  ::  >  processRecord    : UID for Searching : C-213L897
+9/9/2022 2:06:09 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:09 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:09 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:10 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:10 PM  ::  >  NCOUAR Deleted - Short Name - ONECALL
+9/9/2022 2:06:10 PM  ::  >  NCOUAR Deleted - Domain Name - IDPUS
+9/9/2022 2:06:10 PM  ::  >  NCOUAR Deleted - Serial Number - C-213L897
+9/9/2022 2:06:10 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:10 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:10 PM  ::  >  ### cNumber    : C-213L897
+9/9/2022 2:06:10 PM  ::  >  Record # 0000026 : Full Name : Silva Sandra R : UID : 48600631
+9/9/2022 2:06:10 PM  ::  >  processRecord    : UID for Searching : 48600631
+9/9/2022 2:06:10 PM  ::  >  processRecord    : New UID Value : '048600631
+9/9/2022 2:06:10 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:10 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:11 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:11 PM  ::  >  NCOUAR Active - Short Name - SANDRARS
+9/9/2022 2:06:11 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:06:11 PM  ::  >  NCOUAR Active - Serial Number - 048600631
+9/9/2022 2:06:11 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:11 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:11 PM  ::  >  ### cNumber    : 048600631
+9/9/2022 2:06:12 PM  ::  >  Record # 0000027 : Full Name : Souza Daniel Louzada de : UID : 57774631
+9/9/2022 2:06:12 PM  ::  >  processRecord    : UID for Searching : 57774631
+9/9/2022 2:06:12 PM  ::  >  processRecord    : New UID Value : '057774631
+9/9/2022 2:06:12 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:12 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:12 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:12 PM  ::  >  NCOUAR Deleted - Short Name - DANIELLS
+9/9/2022 2:06:12 PM  ::  >  NCOUAR Deleted - Domain Name - IDPAM
+9/9/2022 2:06:12 PM  ::  >  NCOUAR Deleted - Serial Number - 057774631
+9/9/2022 2:06:12 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:12 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:12 PM  ::  >  ### cNumber    : 057774631
+9/9/2022 2:06:13 PM  ::  >  Record # 0000028 : Full Name : SAP IBM BASIS Support : UID : CVR0N6CA3
+9/9/2022 2:06:13 PM  ::  >  processRecord    : UID for Searching : CVR0N6CA3
+9/9/2022 2:06:13 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:13 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:13 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:13 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:13 PM  ::  >  NCOUAR Active - Short Name - SAPIBM
+9/9/2022 2:06:13 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:06:13 PM  ::  >  NCOUAR Active - Serial Number - CVR0N6CA3
+9/9/2022 2:06:13 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:14 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:14 PM  ::  >  ### cNumber    : CVR0N6CA3
+9/9/2022 2:06:14 PM  ::  >  Record # 0000029 : Full Name : ISMC-SK-ADMINSERV : UID : CVNJ2ACA2
+9/9/2022 2:06:14 PM  ::  >  processRecord    : UID for Searching : CVNJ2ACA2
+9/9/2022 2:06:14 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:14 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:14 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:14 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:14 PM  ::  >  NCOUAR Active - Short Name - ADMIN
+9/9/2022 2:06:14 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:06:14 PM  ::  >  NCOUAR Active - Serial Number - CVNJ2ACA2
+9/9/2022 2:06:14 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:15 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:15 PM  ::  >  ### cNumber    : CVNJ2ACA2
+9/9/2022 2:06:15 PM  ::  >  Record # 0000030 : Full Name : ISM BILLING : UID : CVP1XBCA2
+9/9/2022 2:06:15 PM  ::  >  processRecord    : UID for Searching : CVP1XBCA2
+9/9/2022 2:06:15 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:15 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:15 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:15 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:15 PM  ::  >  NCOUAR Active - Short Name - BILLING
+9/9/2022 2:06:15 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:06:15 PM  ::  >  NCOUAR Active - Serial Number - CVP1XBCA2
+9/9/2022 2:06:16 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:16 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:16 PM  ::  >  ### cNumber    : CVP1XBCA2
+9/9/2022 2:06:16 PM  ::  >  Record # 0000031 : Full Name : IBM CTS Team : UID : AVMAR2672
+9/9/2022 2:06:16 PM  ::  >  processRecord    : UID for Searching : AVMAR2672
+9/9/2022 2:06:16 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:16 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:16 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:16 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:16 PM  ::  >  NCOUAR Active - Short Name - IBMCTS
+9/9/2022 2:06:16 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:16 PM  ::  >  NCOUAR Active - Serial Number - AVMAR2672
+9/9/2022 2:06:17 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:17 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:17 PM  ::  >  ### cNumber    : AVMAR2672
+9/9/2022 2:06:17 PM  ::  >  Record # 0000032 : Full Name : CDL Unleash Lab : UID : AVT0XK672
+9/9/2022 2:06:17 PM  ::  >  processRecord    : UID for Searching : AVT0XK672
+9/9/2022 2:06:17 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:17 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:17 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:17 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:18 PM  ::  >  NCOUAR Active - Short Name - UNLEASH
+9/9/2022 2:06:18 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:18 PM  ::  >  NCOUAR Active - Serial Number - AVT0XK672
+9/9/2022 2:06:18 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:18 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:18 PM  ::  >  ### cNumber    : AVT0XK672
+9/9/2022 2:06:18 PM  ::  >  Record # 0000033 : Full Name : Win10 Beijing : UID : AVR08B672
+9/9/2022 2:06:18 PM  ::  >  processRecord    : UID for Searching : AVR08B672
+9/9/2022 2:06:18 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:18 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:18 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:19 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:19 PM  ::  >  NCOUAR Active - Short Name - WIN10
+9/9/2022 2:06:19 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:19 PM  ::  >  NCOUAR Active - Serial Number - AVR08B672
+9/9/2022 2:06:19 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:19 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:19 PM  ::  >  ### cNumber    : AVR08B672
+9/9/2022 2:06:20 PM  ::  >  Record # 0000034 : Full Name : CSC eBHS Team : UID : AV5RKD672
+9/9/2022 2:06:20 PM  ::  >  processRecord    : UID for Searching : AV5RKD672
+9/9/2022 2:06:20 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:20 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:20 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:20 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:20 PM  ::  >  NCOUAR Active - Short Name - CSCEBHS
+9/9/2022 2:06:20 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:20 PM  ::  >  NCOUAR Active - Serial Number - AV5RKD672
+9/9/2022 2:06:20 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:20 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:20 PM  ::  >  ### cNumber    : AV5RKD672
+9/9/2022 2:06:21 PM  ::  >  Record # 0000035 : Full Name : Tornado CI : UID : AVLV5U672
+9/9/2022 2:06:21 PM  ::  >  processRecord    : UID for Searching : AVLV5U672
+9/9/2022 2:06:21 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:21 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:21 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:21 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:21 PM  ::  >  NCOUAR Active - Short Name - TORNADO
+9/9/2022 2:06:21 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:21 PM  ::  >  NCOUAR Active - Serial Number - AVLV5U672
+9/9/2022 2:06:21 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:22 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:22 PM  ::  >  ### cNumber    : AVLV5U672
+9/9/2022 2:06:22 PM  ::  >  Record # 0000036 : Full Name : Mezoudji Safi : UID : Z28898668
+9/9/2022 2:06:22 PM  ::  >  processRecord    : UID for Searching : Z28898668
+9/9/2022 2:06:22 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:22 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:22 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:22 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:22 PM  ::  >  NCOUAR Active - Short Name - Z28898
+9/9/2022 2:06:22 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:22 PM  ::  >  NCOUAR Active - Serial Number - Z28898668
+9/9/2022 2:06:23 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:23 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:23 PM  ::  >  ### cNumber    : Z28898668
+9/9/2022 2:06:23 PM  ::  >  Record # 0000037 : Full Name : for Service KMD Request : UID : Y9DGK6678
+9/9/2022 2:06:23 PM  ::  >  processRecord    : UID for Searching : Y9DGK6678
+9/9/2022 2:06:23 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:23 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:23 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:24 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:24 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:24 PM  ::  >  ### cNumber    : Y9DGK6678
+9/9/2022 2:06:24 PM  ::  >  Record # 0000038 : Full Name : OSS Delivery Management   IBM : UID : Y9CM6U702
+9/9/2022 2:06:24 PM  ::  >  processRecord    : UID for Searching : Y9CM6U702
+9/9/2022 2:06:24 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:24 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:24 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:25 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:25 PM  ::  >  NCOUAR Active - Short Name - ONSITE
+9/9/2022 2:06:25 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:25 PM  ::  >  NCOUAR Active - Serial Number - Y9CM6U702
+9/9/2022 2:06:26 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:26 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:26 PM  ::  >  ### cNumber    : Y9CM6U702
+9/9/2022 2:06:26 PM  ::  >  Record # 0000039 : Full Name : Master IBMCloud : UID : C-PBPH897
+9/9/2022 2:06:26 PM  ::  >  processRecord    : UID for Searching : C-PBPH897
+9/9/2022 2:06:26 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:26 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:26 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:27 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:27 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:27 PM  ::  >  ### cNumber    : C-PBPH897
+9/9/2022 2:06:27 PM  ::  >  Record # 0000040 : Full Name : IBM Ponder This : UID : 98230756
+9/9/2022 2:06:27 PM  ::  >  processRecord    : UID for Searching : 98230756
+9/9/2022 2:06:27 PM  ::  >  processRecord    : New UID Value : '098230756
+9/9/2022 2:06:27 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:27 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:27 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:28 PM  ::  >  NCOUAR Active - Short Name - PONDER
+9/9/2022 2:06:28 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:28 PM  ::  >  NCOUAR Active - Serial Number - 098230756
+9/9/2022 2:06:28 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:28 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:28 PM  ::  >  ### cNumber    : 098230756
+9/9/2022 2:06:29 PM  ::  >  Record # 0000041 : Full Name : Helper Cse : UID : 55350756
+9/9/2022 2:06:29 PM  ::  >  processRecord    : UID for Searching : 55350756
+9/9/2022 2:06:29 PM  ::  >  processRecord    : New UID Value : '055350756
+9/9/2022 2:06:29 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:29 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:29 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:29 PM  ::  >  NCOUAR Active - Short Name - CSE
+9/9/2022 2:06:29 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:29 PM  ::  >  NCOUAR Active - Serial Number - 055350756
+9/9/2022 2:06:30 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:30 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:30 PM  ::  >  ### cNumber    : 055350756
+9/9/2022 2:06:30 PM  ::  >  Record # 0000042 : Full Name : SARM Canada Issue and Policy Management - Hungary : UID : Y9CRRF740
+9/9/2022 2:06:30 PM  ::  >  processRecord    : UID for Searching : Y9CRRF740
+9/9/2022 2:06:30 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:30 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:30 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:30 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:31 PM  ::  >  NCOUAR Active - Short Name - CIP
+9/9/2022 2:06:31 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:31 PM  ::  >  NCOUAR Active - Serial Number - Y9CRRF740
+9/9/2022 2:06:31 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:32 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:32 PM  ::  >  ### cNumber    : Y9CRRF740
+9/9/2022 2:06:32 PM  ::  >  Record # 0000043 : Full Name : INFRASTRUCTURE MANAGEMENT AIS MICROSOFT : UID : Y9CNHH740
+9/9/2022 2:06:32 PM  ::  >  processRecord    : UID for Searching : Y9CNHH740
+9/9/2022 2:06:32 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:32 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:32 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:32 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:32 PM  ::  >  NCOUAR Active - Short Name - MIM
+9/9/2022 2:06:32 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:32 PM  ::  >  NCOUAR Active - Serial Number - Y9CNHH740
+9/9/2022 2:06:33 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:33 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:33 PM  ::  >  ### cNumber    : Y9CNHH740
+9/9/2022 2:06:33 PM  ::  >  Record # 0000044 : Full Name : Karath Ajith : UID : 03408V744
+9/9/2022 2:06:33 PM  ::  >  processRecord    : UID for Searching : 03408V744
+9/9/2022 2:06:33 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:33 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:33 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:34 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:34 PM  ::  >  NCOUAR Deleted - Short Name - AJKARATH
+9/9/2022 2:06:34 PM  ::  >  NCOUAR Deleted - Domain Name - IDPIN
+9/9/2022 2:06:34 PM  ::  >  NCOUAR Deleted - Serial Number - 03408V744
+9/9/2022 2:06:34 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:34 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:34 PM  ::  >  ### cNumber    : 03408V744
+9/9/2022 2:06:34 PM  ::  >  Record # 0000045 : Full Name : Security HC Center India : UID : AVRCHS744
+9/9/2022 2:06:34 PM  ::  >  processRecord    : UID for Searching : AVRCHS744
+9/9/2022 2:06:34 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:34 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:34 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:35 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:35 PM  ::  >  NCOUAR Active - Short Name - SECHC
+9/9/2022 2:06:35 PM  ::  >  NCOUAR Active - Domain Name - IDPIN
+9/9/2022 2:06:35 PM  ::  >  NCOUAR Active - Serial Number - AVRCHS744
+9/9/2022 2:06:35 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:35 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:35 PM  ::  >  ### cNumber    : AVRCHS744
+9/9/2022 2:06:36 PM  ::  >  Record # 0000046 : Full Name : IMI-EMEA SAP Accounts : UID : AVPNH5744
+9/9/2022 2:06:36 PM  ::  >  processRecord    : UID for Searching : AVPNH5744
+9/9/2022 2:06:36 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:36 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:36 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:36 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:36 PM  ::  >  NCOUAR Active - Short Name - EMEASAP
+9/9/2022 2:06:36 PM  ::  >  NCOUAR Active - Domain Name - IDPIN
+9/9/2022 2:06:36 PM  ::  >  NCOUAR Active - Serial Number - AVPNH5744
+9/9/2022 2:06:36 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:36 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:36 PM  ::  >  ### cNumber    : AVPNH5744
+9/9/2022 2:06:37 PM  ::  >  Record # 0000047 : Full Name : Abdul Majit Khan : UID : AVRA4K744
+9/9/2022 2:06:37 PM  ::  >  processRecord    : UID for Searching : AVRA4K744
+9/9/2022 2:06:37 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:37 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:37 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:37 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:37 PM  ::  >  NCOUAR Deleted - Short Name - INAVRA4K
+9/9/2022 2:06:37 PM  ::  >  NCOUAR Deleted - Domain Name - IDPIN
+9/9/2022 2:06:37 PM  ::  >  NCOUAR Deleted - Serial Number - AVRA4K744
+9/9/2022 2:06:38 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:38 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:38 PM  ::  >  ### cNumber    : AVRA4K744
+9/9/2022 2:06:38 PM  ::  >  Record # 0000048 : Full Name : Arumilli Madhurya : UID : 000QD3744
+9/9/2022 2:06:38 PM  ::  >  processRecord    : UID for Searching : 000QD3744
+9/9/2022 2:06:38 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:38 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:38 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:38 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:39 PM  ::  >  NCOUAR Deleted - Short Name - MARUMILL
+9/9/2022 2:06:39 PM  ::  >  NCOUAR Deleted - Domain Name - IDPIN
+9/9/2022 2:06:39 PM  ::  >  NCOUAR Deleted - Serial Number - 000QD3744
+9/9/2022 2:06:39 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:39 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:39 PM  ::  >  ### cNumber    : 000QD3744
+9/9/2022 2:06:39 PM  ::  >  Record # 0000049 : Full Name : Unix L1 IBM : UID : AVS258744
+9/9/2022 2:06:39 PM  ::  >  processRecord    : UID for Searching : AVS258744
+9/9/2022 2:06:39 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:39 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:39 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:40 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:40 PM  ::  >  NCOUAR Deleted - Short Name - IBUNIXL1
+9/9/2022 2:06:40 PM  ::  >  NCOUAR Deleted - Domain Name - IDPIN
+9/9/2022 2:06:40 PM  ::  >  NCOUAR Deleted - Serial Number - AVS258744
+9/9/2022 2:06:40 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:40 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:40 PM  ::  >  ### cNumber    : AVS258744
+9/9/2022 2:06:40 PM  ::  >  Record # 0000050 : Full Name : SRE Bot : UID : AVSW7C744
+9/9/2022 2:06:40 PM  ::  >  processRecord    : UID for Searching : AVSW7C744
+9/9/2022 2:06:40 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:40 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:40 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:41 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:41 PM  ::  >  NCOUAR Active - Short Name - SREBOT
+9/9/2022 2:06:41 PM  ::  >  NCOUAR Active - Domain Name - IDPIN
+9/9/2022 2:06:41 PM  ::  >  NCOUAR Active - Serial Number - AVSW7C744
+9/9/2022 2:06:41 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:41 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:41 PM  ::  >  ### cNumber    : AVSW7C744
+9/9/2022 2:06:41 PM  ::  >  Record # 0000051 : Full Name : Michelin Ansible Tower : UID : AVRX24744
+9/9/2022 2:06:41 PM  ::  >  processRecord    : UID for Searching : AVRX24744
+9/9/2022 2:06:41 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:41 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:41 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:42 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:42 PM  ::  >  NCOUAR Active - Short Name - MICHELIN
+9/9/2022 2:06:42 PM  ::  >  NCOUAR Active - Domain Name - IDPIN
+9/9/2022 2:06:42 PM  ::  >  NCOUAR Active - Serial Number - AVRX24744
+9/9/2022 2:06:42 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:42 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:42 PM  ::  >  ### cNumber    : AVRX24744
+9/9/2022 2:06:43 PM  ::  >  Record # 0000052 : Full Name : 3HLPTCS Taskid : UID : AVP3HM744
+9/9/2022 2:06:43 PM  ::  >  processRecord    : UID for Searching : AVP3HM744
+9/9/2022 2:06:43 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:43 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:43 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:43 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:43 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:43 PM  ::  >  ### cNumber    : AVP3HM744
+9/9/2022 2:06:44 PM  ::  >  Record # 0000053 : Full Name : Livne1 Liran : UID : 16760756
+9/9/2022 2:06:44 PM  ::  >  processRecord    : UID for Searching : 16760756
+9/9/2022 2:06:44 PM  ::  >  processRecord    : New UID Value : '016760756
+9/9/2022 2:06:44 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:44 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:44 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:44 PM  ::  >  NCOUAR Deleted - Short Name - IL016760
+9/9/2022 2:06:44 PM  ::  >  NCOUAR Deleted - Domain Name - IDPEM
+9/9/2022 2:06:44 PM  ::  >  NCOUAR Deleted - Serial Number - 016760756
+9/9/2022 2:06:45 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:45 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:45 PM  ::  >  ### cNumber    : 016760756
+9/9/2022 2:06:45 PM  ::  >  Record # 0000054 : Full Name : Mizrahy Meny : UID : 16690756
+9/9/2022 2:06:45 PM  ::  >  processRecord    : UID for Searching : 16690756
+9/9/2022 2:06:45 PM  ::  >  processRecord    : New UID Value : '016690756
+9/9/2022 2:06:45 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:45 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:45 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:46 PM  ::  >  NCOUAR Deleted - Short Name - IL016690
+9/9/2022 2:06:46 PM  ::  >  NCOUAR Deleted - Domain Name - IDPEM
+9/9/2022 2:06:46 PM  ::  >  NCOUAR Deleted - Serial Number - 016690756
+9/9/2022 2:06:46 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:46 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:46 PM  ::  >  ### cNumber    : 016690756
+9/9/2022 2:06:47 PM  ::  >  Record # 0000055 : Full Name : Salomon Dekel : UID : 16730756
+9/9/2022 2:06:47 PM  ::  >  processRecord    : UID for Searching : 16730756
+9/9/2022 2:06:47 PM  ::  >  processRecord    : New UID Value : '016730756
+9/9/2022 2:06:47 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:47 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:47 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:47 PM  ::  >  NCOUAR Deleted - Short Name - IL016730
+9/9/2022 2:06:47 PM  ::  >  NCOUAR Deleted - Domain Name - IDPEM
+9/9/2022 2:06:47 PM  ::  >  NCOUAR Deleted - Serial Number - 016730756
+9/9/2022 2:06:48 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:48 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:48 PM  ::  >  ### cNumber    : 016730756
+9/9/2022 2:06:48 PM  ::  >  Record # 0000056 : Full Name : Fonseca1 Manuel : UID : Y9E8DX758
+9/9/2022 2:06:48 PM  ::  >  processRecord    : UID for Searching : Y9E8DX758
+9/9/2022 2:06:48 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:48 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:48 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:48 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:49 PM  ::  >  NCOUAR Active - Short Name - ITY9E8DX
+9/9/2022 2:06:49 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:06:49 PM  ::  >  NCOUAR Active - Serial Number - Y9E8DX758
+9/9/2022 2:06:49 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:50 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:50 PM  ::  >  ### cNumber    : Y9E8DX758
+9/9/2022 2:06:50 PM  ::  >  Record # 0000057 : Full Name : Services GSD Platform : UID : B52791760
+9/9/2022 2:06:50 PM  ::  >  processRecord    : UID for Searching : B52791760
+9/9/2022 2:06:50 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:50 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:50 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:50 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:50 PM  ::  >  NCOUAR Active - Short Name - GSDPS
+9/9/2022 2:06:50 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:50 PM  ::  >  NCOUAR Active - Serial Number - B52791760
+9/9/2022 2:06:50 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:51 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:51 PM  ::  >  ### cNumber    : B52791760
+9/9/2022 2:06:51 PM  ::  >  Record # 0000058 : Full Name : Dispose Shell : UID : B31746760
+9/9/2022 2:06:51 PM  ::  >  processRecord    : UID for Searching : B31746760
+9/9/2022 2:06:51 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:51 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:51 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:51 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:51 PM  ::  >  NCOUAR Active - Short Name - SHELL
+9/9/2022 2:06:51 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:51 PM  ::  >  NCOUAR Active - Serial Number - B31746760
+9/9/2022 2:06:52 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:52 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:52 PM  ::  >  ### cNumber    : B31746760
+9/9/2022 2:06:52 PM  ::  >  Record # 0000059 : Full Name : Software STH : UID : BA5661760
+9/9/2022 2:06:52 PM  ::  >  processRecord    : UID for Searching : BA5661760
+9/9/2022 2:06:52 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:06:52 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:52 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:52 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:52 PM  ::  >  NCOUAR Active - Short Name - STHSWG
+9/9/2022 2:06:52 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:52 PM  ::  >  NCOUAR Active - Serial Number - BA5661760
+9/9/2022 2:06:53 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:53 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:53 PM  ::  >  ### cNumber    : BA5661760
+9/9/2022 2:06:53 PM  ::  >  Record # 0000060 : Full Name : Indemnity Payroll : UID : 4599766
+9/9/2022 2:06:53 PM  ::  >  processRecord    : UID for Searching : 4599766
+9/9/2022 2:06:53 PM  ::  >  processRecord    : New UID Value : '004599766
+9/9/2022 2:06:53 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:53 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:53 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:54 PM  ::  >  NCOUAR Active - Short Name - PAYROLL4
+9/9/2022 2:06:54 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:54 PM  ::  >  NCOUAR Active - Serial Number - 004599766
+9/9/2022 2:06:54 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:54 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:54 PM  ::  >  ### cNumber    : 004599766
+9/9/2022 2:06:54 PM  ::  >  Record # 0000061 : Full Name : Smart Workflow : UID : 9024766
+9/9/2022 2:06:54 PM  ::  >  processRecord    : UID for Searching : 9024766
+9/9/2022 2:06:54 PM  ::  >  processRecord    : New UID Value : '009024766
+9/9/2022 2:06:54 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:54 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:55 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:55 PM  ::  >  NCOUAR Active - Short Name - SMARTWF
+9/9/2022 2:06:55 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:55 PM  ::  >  NCOUAR Active - Serial Number - 009024766
+9/9/2022 2:06:55 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:55 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:55 PM  ::  >  ### cNumber    : 009024766
+9/9/2022 2:06:55 PM  ::  >  Record # 0000062 : Full Name : IBMKTS JOB : UID : 9554766
+9/9/2022 2:06:55 PM  ::  >  processRecord    : UID for Searching : 9554766
+9/9/2022 2:06:55 PM  ::  >  processRecord    : New UID Value : '009554766
+9/9/2022 2:06:56 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:56 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:56 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:56 PM  ::  >  NCOUAR Active - Short Name - KTSJOB
+9/9/2022 2:06:56 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:56 PM  ::  >  NCOUAR Active - Serial Number - 009554766
+9/9/2022 2:06:56 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:56 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:56 PM  ::  >  ### cNumber    : 009554766
+9/9/2022 2:06:57 PM  ::  >  Record # 0000063 : Full Name : AR Client Financing : UID : 9033766
+9/9/2022 2:06:57 PM  ::  >  processRecord    : UID for Searching : 9033766
+9/9/2022 2:06:57 PM  ::  >  processRecord    : New UID Value : '009033766
+9/9/2022 2:06:57 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:57 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:57 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:57 PM  ::  >  NCOUAR Active - Short Name - CUFAR
+9/9/2022 2:06:57 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:57 PM  ::  >  NCOUAR Active - Serial Number - 009033766
+9/9/2022 2:06:57 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:58 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:58 PM  ::  >  ### cNumber    : 009033766
+9/9/2022 2:06:58 PM  ::  >  Record # 0000064 : Full Name : BPM KTS : UID : 9019766
+9/9/2022 2:06:58 PM  ::  >  processRecord    : UID for Searching : 9019766
+9/9/2022 2:06:58 PM  ::  >  processRecord    : New UID Value : '009019766
+9/9/2022 2:06:58 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:58 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:58 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:58 PM  ::  >  NCOUAR Active - Short Name - KTSBPM
+9/9/2022 2:06:58 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:58 PM  ::  >  NCOUAR Active - Serial Number - 009019766
+9/9/2022 2:06:58 PM  ::  >  searchNABDB - Start
+9/9/2022 2:06:59 PM  ::  >  searchMatches - Start
+9/9/2022 2:06:59 PM  ::  >  ### cNumber    : 009019766
+9/9/2022 2:06:59 PM  ::  >  Record # 0000065 : Full Name : IBMKTS Club : UID : 9564766
+9/9/2022 2:06:59 PM  ::  >  processRecord    : UID for Searching : 9564766
+9/9/2022 2:06:59 PM  ::  >  processRecord    : New UID Value : '009564766
+9/9/2022 2:06:59 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:06:59 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:06:59 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:06:59 PM  ::  >  NCOUAR Active - Short Name - KTSCLUB
+9/9/2022 2:06:59 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:06:59 PM  ::  >  NCOUAR Active - Serial Number - 009564766
+9/9/2022 2:07:00 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:00 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:00 PM  ::  >  ### cNumber    : 009564766
+9/9/2022 2:07:00 PM  ::  >  Record # 0000066 : Full Name : Salary Payroll : UID : 4598766
+9/9/2022 2:07:00 PM  ::  >  processRecord    : UID for Searching : 4598766
+9/9/2022 2:07:00 PM  ::  >  processRecord    : New UID Value : '004598766
+9/9/2022 2:07:00 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:00 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:00 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:00 PM  ::  >  NCOUAR Active - Short Name - KR004598
+9/9/2022 2:07:00 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:00 PM  ::  >  NCOUAR Active - Serial Number - 004598766
+9/9/2022 2:07:01 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:01 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:01 PM  ::  >  ### cNumber    : 004598766
+9/9/2022 2:07:01 PM  ::  >  Record # 0000067 : Full Name : Linux Contact Center : UID : 9038766
+9/9/2022 2:07:01 PM  ::  >  processRecord    : UID for Searching : 9038766
+9/9/2022 2:07:01 PM  ::  >  processRecord    : New UID Value : '009038766
+9/9/2022 2:07:01 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:01 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:01 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:01 PM  ::  >  NCOUAR Active - Short Name - LINUXCC
+9/9/2022 2:07:01 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:01 PM  ::  >  NCOUAR Active - Serial Number - 009038766
+9/9/2022 2:07:02 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:02 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:02 PM  ::  >  ### cNumber    : 009038766
+9/9/2022 2:07:02 PM  ::  >  Record # 0000068 : Full Name : Admin Golf : UID : 9007766
+9/9/2022 2:07:02 PM  ::  >  processRecord    : UID for Searching : 9007766
+9/9/2022 2:07:02 PM  ::  >  processRecord    : New UID Value : '009007766
+9/9/2022 2:07:02 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:02 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:02 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:02 PM  ::  >  NCOUAR Active - Short Name - GOLF
+9/9/2022 2:07:02 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:02 PM  ::  >  NCOUAR Active - Serial Number - 009007766
+9/9/2022 2:07:03 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:03 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:03 PM  ::  >  ### cNumber    : 009007766
+9/9/2022 2:07:03 PM  ::  >  Record # 0000069 : Full Name : KTS Development : UID : 9553766
+9/9/2022 2:07:03 PM  ::  >  processRecord    : UID for Searching : 9553766
+9/9/2022 2:07:03 PM  ::  >  processRecord    : New UID Value : '009553766
+9/9/2022 2:07:03 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:03 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:04 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:04 PM  ::  >  NCOUAR Active - Short Name - KTSDEV
+9/9/2022 2:07:04 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:04 PM  ::  >  NCOUAR Active - Serial Number - 009553766
+9/9/2022 2:07:04 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:04 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:04 PM  ::  >  ### cNumber    : 009553766
+9/9/2022 2:07:04 PM  ::  >  Record # 0000070 : Full Name : Tell KTS : UID : 9611766
+9/9/2022 2:07:04 PM  ::  >  processRecord    : UID for Searching : 9611766
+9/9/2022 2:07:04 PM  ::  >  processRecord    : New UID Value : '009611766
+9/9/2022 2:07:04 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:04 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:05 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:05 PM  ::  >  NCOUAR Active - Short Name - TELLKTS
+9/9/2022 2:07:05 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:05 PM  ::  >  NCOUAR Active - Serial Number - 009611766
+9/9/2022 2:07:05 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:05 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:05 PM  ::  >  ### cNumber    : 009611766
+9/9/2022 2:07:06 PM  ::  >  Record # 0000071 : Full Name : Korea SalesConnect : UID : 7649766
+9/9/2022 2:07:06 PM  ::  >  processRecord    : UID for Searching : 7649766
+9/9/2022 2:07:06 PM  ::  >  processRecord    : New UID Value : '007649766
+9/9/2022 2:07:06 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:06 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:06 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:06 PM  ::  >  NCOUAR Active - Short Name - SCKOREA
+9/9/2022 2:07:06 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:06 PM  ::  >  NCOUAR Active - Serial Number - 007649766
+9/9/2022 2:07:06 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:06 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:06 PM  ::  >  ### cNumber    : 007649766
+9/9/2022 2:07:07 PM  ::  >  Record # 0000072 : Full Name : HR Learning : UID : 9031766
+9/9/2022 2:07:07 PM  ::  >  processRecord    : UID for Searching : 9031766
+9/9/2022 2:07:07 PM  ::  >  processRecord    : New UID Value : '009031766
+9/9/2022 2:07:07 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:07 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:07 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:07 PM  ::  >  NCOUAR Active - Short Name - LEARNING
+9/9/2022 2:07:07 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:07 PM  ::  >  NCOUAR Active - Serial Number - 009031766
+9/9/2022 2:07:07 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:08 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:08 PM  ::  >  ### cNumber    : 009031766
+9/9/2022 2:07:08 PM  ::  >  Record # 0000073 : Full Name : SWPO IBM : UID : 9041766
+9/9/2022 2:07:08 PM  ::  >  processRecord    : UID for Searching : 9041766
+9/9/2022 2:07:08 PM  ::  >  processRecord    : New UID Value : '009041766
+9/9/2022 2:07:08 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:08 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:08 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:08 PM  ::  >  NCOUAR Active - Short Name - IBMSWPO
+9/9/2022 2:07:08 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:08 PM  ::  >  NCOUAR Active - Serial Number - 009041766
+9/9/2022 2:07:08 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:09 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:09 PM  ::  >  ### cNumber    : 009041766
+9/9/2022 2:07:09 PM  ::  >  Record # 0000074 : Full Name : Talent Acquisition Korea : UID : 9040766
+9/9/2022 2:07:09 PM  ::  >  processRecord    : UID for Searching : 9040766
+9/9/2022 2:07:09 PM  ::  >  processRecord    : New UID Value : '009040766
+9/9/2022 2:07:09 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:09 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:09 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:09 PM  ::  >  NCOUAR Active - Short Name - KOREATA
+9/9/2022 2:07:09 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:09 PM  ::  >  NCOUAR Active - Serial Number - 009040766
+9/9/2022 2:07:10 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:10 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:10 PM  ::  >  ### cNumber    : 009040766
+9/9/2022 2:07:10 PM  ::  >  Record # 0000075 : Full Name : GTS Compensation : UID : AVPATB778
+9/9/2022 2:07:10 PM  ::  >  processRecord    : UID for Searching : AVPATB778
+9/9/2022 2:07:10 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:10 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:10 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:10 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:10 PM  ::  >  NCOUAR Active - Short Name - GTSCOMP
+9/9/2022 2:07:10 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:10 PM  ::  >  NCOUAR Active - Serial Number - AVPATB778
+9/9/2022 2:07:11 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:11 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:11 PM  ::  >  ### cNumber    : AVPATB778
+9/9/2022 2:07:11 PM  ::  >  Record # 0000076 : Full Name : Green Mark : UID : 7D3521897
+9/9/2022 2:07:11 PM  ::  >  processRecord    : UID for Searching : 7D3521897
+9/9/2022 2:07:11 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:11 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:11 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:11 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:12 PM  ::  >  NCOUAR Active - Short Name - MGREEN
+9/9/2022 2:07:12 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:12 PM  ::  >  NCOUAR Active - Serial Number - 7D3521897
+9/9/2022 2:07:12 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:12 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:12 PM  ::  >  ### cNumber    : 7D3521897
+9/9/2022 2:07:12 PM  ::  >  Record # 0000077 : Full Name : Aguirre Ventura1 Jose Miguel : UID : LVPX3B815
+9/9/2022 2:07:12 PM  ::  >  processRecord    : UID for Searching : LVPX3B815
+9/9/2022 2:07:12 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:12 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:12 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:13 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:13 PM  ::  >  NCOUAR Active - Short Name - JOSEAGUI
+9/9/2022 2:07:13 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:07:13 PM  ::  >  NCOUAR Active - Serial Number - LVPX3B815
+9/9/2022 2:07:13 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:13 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:13 PM  ::  >  ### cNumber    : LVPX3B815
+9/9/2022 2:07:14 PM  ::  >  Record # 0000078 : Full Name : Operations GBS Delivery : UID : AVRKBA818
+9/9/2022 2:07:14 PM  ::  >  processRecord    : UID for Searching : AVRKBA818
+9/9/2022 2:07:14 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:14 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:14 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:14 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:14 PM  ::  >  NCOUAR Active - Short Name - BCSPOADM
+9/9/2022 2:07:14 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:14 PM  ::  >  NCOUAR Active - Serial Number - AVRKBA818
+9/9/2022 2:07:14 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:14 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:14 PM  ::  >  ### cNumber    : AVRKBA818
+9/9/2022 2:07:15 PM  ::  >  Record # 0000079 : Full Name : POLAND CMS STORAGE TEAM : UID : Y9D46T820
+9/9/2022 2:07:15 PM  ::  >  processRecord    : UID for Searching : Y9D46T820
+9/9/2022 2:07:15 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:15 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:15 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:15 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:15 PM  ::  >  NCOUAR Active - Short Name - cmsstgpl
+9/9/2022 2:07:15 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:07:15 PM  ::  >  NCOUAR Active - Serial Number - Y9D46T820
+9/9/2022 2:07:16 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:16 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:16 PM  ::  >  ### cNumber    : Y9D46T820
+9/9/2022 2:07:16 PM  ::  >  Record # 0000080 : Full Name : Ali Syed : UID : 8200+4897
+9/9/2022 2:07:16 PM  ::  >  processRecord    : UID for Searching : 8200+4897
+9/9/2022 2:07:16 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:16 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:16 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:16 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:17 PM  ::  >  NCOUAR Active - Short Name - SALI
+9/9/2022 2:07:17 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:17 PM  ::  >  NCOUAR Active - Serial Number - 8200+4897
+9/9/2022 2:07:17 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:17 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:17 PM  ::  >  ### cNumber    : 8200+4897
+9/9/2022 2:07:17 PM  ::  >  Record # 0000081 : Full Name : Parekh Darshana : UID : KRL-31897
+9/9/2022 2:07:17 PM  ::  >  processRecord    : UID for Searching : KRL-31897
+9/9/2022 2:07:17 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:17 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:17 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:18 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:18 PM  ::  >  NCOUAR Active - Short Name - PAREKH
+9/9/2022 2:07:18 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:18 PM  ::  >  NCOUAR Active - Serial Number - KRL-31897
+9/9/2022 2:07:18 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:18 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:18 PM  ::  >  ### cNumber    : KRL-31897
+9/9/2022 2:07:19 PM  ::  >  Record # 0000082 : Full Name : Soni Pankaj : UID : CVEM5ACA3
+9/9/2022 2:07:19 PM  ::  >  processRecord    : UID for Searching : CVEM5ACA3
+9/9/2022 2:07:19 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:19 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:19 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:19 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:19 PM  ::  >  NCOUAR Active - Short Name - PANKAJ
+9/9/2022 2:07:19 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:07:19 PM  ::  >  NCOUAR Active - Serial Number - CVEM5ACA3
+9/9/2022 2:07:19 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:19 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:19 PM  ::  >  ### cNumber    : CVEM5ACA3
+9/9/2022 2:07:20 PM  ::  >  Record # 0000083 : Full Name : Perry George : UID : C-8PMU897
+9/9/2022 2:07:20 PM  ::  >  processRecord    : UID for Searching : C-8PMU897
+9/9/2022 2:07:20 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:20 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:20 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:20 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:20 PM  ::  >  NCOUAR Deleted - Short Name - GEORGEP
+9/9/2022 2:07:20 PM  ::  >  NCOUAR Deleted - Domain Name - IDPUS
+9/9/2022 2:07:20 PM  ::  >  NCOUAR Deleted - Serial Number - C-8PMU897
+9/9/2022 2:07:20 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:20 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:20 PM  ::  >  ### cNumber    : C-8PMU897
+9/9/2022 2:07:21 PM  ::  >  Record # 0000084 : Full Name : GMX Rollback4 : UID : C-S98K897
+9/9/2022 2:07:21 PM  ::  >  processRecord    : UID for Searching : C-S98K897
+9/9/2022 2:07:21 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:21 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:21 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:21 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:22 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:22 PM  ::  >  ### cNumber    : C-S98K897
+9/9/2022 2:07:22 PM  ::  >  Record # 0000085 : Full Name : PMUSA IBM SAP : UID : C-LU27897
+9/9/2022 2:07:22 PM  ::  >  processRecord    : UID for Searching : C-LU27897
+9/9/2022 2:07:22 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:22 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:22 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:22 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:22 PM  ::  >  NCOUAR Active - Short Name - SAPSUPP
+9/9/2022 2:07:22 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:22 PM  ::  >  NCOUAR Active - Serial Number - C-LU27897
+9/9/2022 2:07:22 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:23 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:23 PM  ::  >  ### cNumber    : C-LU27897
+9/9/2022 2:07:23 PM  ::  >  Record # 0000086 : Full Name : HR Buzz : UID : 56690834
+9/9/2022 2:07:23 PM  ::  >  processRecord    : UID for Searching : 56690834
+9/9/2022 2:07:23 PM  ::  >  processRecord    : New UID Value : '056690834
+9/9/2022 2:07:23 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:23 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:23 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:23 PM  ::  >  NCOUAR Active - Short Name - BUZZHR
+9/9/2022 2:07:23 PM  ::  >  NCOUAR Active - Domain Name - IDPAP
+9/9/2022 2:07:23 PM  ::  >  NCOUAR Active - Serial Number - 056690834
+9/9/2022 2:07:24 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:24 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:24 PM  ::  >  ### cNumber    : 056690834
+9/9/2022 2:07:24 PM  ::  >  Record # 0000087 : Full Name : BP_app : UID : C-JCND897
+9/9/2022 2:07:24 PM  ::  >  processRecord    : UID for Searching : C-JCND897
+9/9/2022 2:07:24 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:24 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:24 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:24 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:24 PM  ::  >  NCOUAR Active - Short Name - BPAPP
+9/9/2022 2:07:24 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:24 PM  ::  >  NCOUAR Active - Serial Number - C-JCND897
+9/9/2022 2:07:25 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:25 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:25 PM  ::  >  ### cNumber    : C-JCND897
+9/9/2022 2:07:25 PM  ::  >  Record # 0000088 : Full Name : Keyzer Jan : UID : ZZ00WY864
+9/9/2022 2:07:25 PM  ::  >  processRecord    : UID for Searching : ZZ00WY864
+9/9/2022 2:07:25 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:25 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:25 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:25 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:26 PM  ::  >  NCOUAR Active - Short Name - JANK
+9/9/2022 2:07:26 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:07:26 PM  ::  >  NCOUAR Active - Serial Number - ZZ00WY864
+9/9/2022 2:07:26 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:27 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:27 PM  ::  >  ### cNumber    : ZZ00WY864
+9/9/2022 2:07:27 PM  ::  >  Record # 0000089 : Full Name : Sales Management : UID : C-SCVB897
+9/9/2022 2:07:27 PM  ::  >  processRecord    : UID for Searching : C-SCVB897
+9/9/2022 2:07:27 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:27 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:27 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:27 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:27 PM  ::  >  NCOUAR Active - Short Name - SALESMGT
+9/9/2022 2:07:27 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:27 PM  ::  >  NCOUAR Active - Serial Number - C-SCVB897
+9/9/2022 2:07:27 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:28 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:28 PM  ::  >  ### cNumber    : C-SCVB897
+9/9/2022 2:07:28 PM  ::  >  Record # 0000090 : Full Name : Milano Russell : UID : 5G1900897
+9/9/2022 2:07:28 PM  ::  >  processRecord    : UID for Searching : 5G1900897
+9/9/2022 2:07:28 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:28 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:28 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:28 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:28 PM  ::  >  NCOUAR Active - Short Name - RMILANO
+9/9/2022 2:07:28 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:28 PM  ::  >  NCOUAR Active - Serial Number - 5G1900897
+9/9/2022 2:07:29 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:29 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:29 PM  ::  >  ### cNumber    : 5G1900897
+9/9/2022 2:07:29 PM  ::  >  Record # 0000091 : Full Name : REPORTIN TASKID REPORTIN : UID : Y9ECCS838
+9/9/2022 2:07:29 PM  ::  >  processRecord    : UID for Searching : Y9ECCS838
+9/9/2022 2:07:29 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:29 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:29 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:29 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:30 PM  ::  >  NCOUAR Active - Short Name - REPORTIN
+9/9/2022 2:07:30 PM  ::  >  NCOUAR Active - Domain Name - IDPEM
+9/9/2022 2:07:30 PM  ::  >  NCOUAR Active - Serial Number - Y9ECCS838
+9/9/2022 2:07:30 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:30 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:30 PM  ::  >  ### cNumber    : Y9ECCS838
+9/9/2022 2:07:31 PM  ::  >  Record # 0000092 : Full Name : Varga Kristy N : UID : C-KG9T897
+9/9/2022 2:07:31 PM  ::  >  processRecord    : UID for Searching : C-KG9T897
+9/9/2022 2:07:31 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:31 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:31 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:31 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:31 PM  ::  >  NCOUAR Active - Short Name - KVARGA
+9/9/2022 2:07:31 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:31 PM  ::  >  NCOUAR Active - Serial Number - C-KG9T897
+9/9/2022 2:07:31 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:32 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:32 PM  ::  >  ### cNumber    : C-KG9T897
+9/9/2022 2:07:32 PM  ::  >  Record # 0000093 : Full Name : Memon Hamaad H : UID : 0D1775649
+9/9/2022 2:07:32 PM  ::  >  processRecord    : UID for Searching : 0D1775649
+9/9/2022 2:07:32 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:32 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:32 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:32 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:32 PM  ::  >  NCOUAR Active - Short Name - HMEMON
+9/9/2022 2:07:32 PM  ::  >  NCOUAR Active - Domain Name - IDPAM
+9/9/2022 2:07:32 PM  ::  >  NCOUAR Active - Serial Number - 0D1775649
+9/9/2022 2:07:32 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:33 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:33 PM  ::  >  ### cNumber    : 0D1775649
+9/9/2022 2:07:33 PM  ::  >  Record # 0000094 : Full Name : Ashley L Myers1 : UID : 3G4911897
+9/9/2022 2:07:33 PM  ::  >  processRecord    : UID for Searching : 3G4911897
+9/9/2022 2:07:33 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:33 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:33 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:33 PM  ::  >  setNCOUARFields - Start
+9/9/2022 2:07:33 PM  ::  >  NCOUAR Active - Short Name - MYERSASH
+9/9/2022 2:07:33 PM  ::  >  NCOUAR Active - Domain Name - IDPUS
+9/9/2022 2:07:33 PM  ::  >  NCOUAR Active - Serial Number - 3G4911897
+9/9/2022 2:07:34 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:34 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:34 PM  ::  >  ### cNumber    : 3G4911897
+9/9/2022 2:07:34 PM  ::  >  Record # 0000095 : Full Name : Yuille Stephanie : UID : 2J9071897
+9/9/2022 2:07:34 PM  ::  >  processRecord    : UID for Searching : 2J9071897
+9/9/2022 2:07:34 PM  ::  >  processRecord    : UID has 9 characters : Yes
+9/9/2022 2:07:34 PM  ::  >  searchNCOUARDB - Start
+9/9/2022 2:07:34 PM  ::  >  searchNCOUARDB - Get View Entry Collection
+9/9/2022 2:07:35 PM  ::  >  searchNABDB - Start
+9/9/2022 2:07:35 PM  ::  >  searchMatches - Start
+9/9/2022 2:07:35 PM  ::  >  ### cNumber    : 2J9071897
+9/9/2022 2:07:35 PM  ::  >  Write Output File - Count : 1
+9/9/2022 2:07:35 PM  ::  >  Log closed for KU_Report_n_Process

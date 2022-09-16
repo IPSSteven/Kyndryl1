@@ -1,0 +1,41 @@
+Monitoring Reconcile Processes
+
+IBM Side DB's
+  - Server	- IDPData1/IDP
+  - Tool DB 	- e_dir\eregtoo6.nsf
+  - Log		- e_dir\ereglog6.nsf
+  - NCOUAR	- e_dir\ncouar2.nsf
+
+Kyndryl/Ocean Side DB's
+  - Server	- IDPData2/IDP
+  - Tool DB 	- e_dir\eregtoo6.nsf (Replica of IDPData1, but Kyndryl Notes ID can access it)
+  - Log		- ocean\ereglog6.nsf
+  - NCOUAR	- ocean\ncouar3.nsf
+
+
+## You must use the Notes ID for the specific side in order for process to work.
+
+Steps to monitor Reconcile Process
+
+01 - Open up Log DB in Notes Client
+02 - Go to Last Actions > by Agent view in view list along left side of workspace.  Open View single click
+03 - Collapse view using triple minus sign to see all categories.
+04 - Expand ITIM_Recon category then expand Reconcile_Java sub category.
+05 - Look at most recent date in listing of records, look to far right and verify that it shows Done.
+	A - If it does not show Done then open it and see what is going on.
+	B - If it is showing as 'Still Running' but hours have passed Check Windows Server Below.
+
+
+Windows Server
+
+01 - Check Scheduled Tasks to see when last ran, see if matches up with Tool DB
+02 - Log File should be in C:\ereg\Recon\log.txt but it gets overwritten every 15 minutes.  ### Opportunity - Append not overwrite.
+	### Opportunity - Have code create a new log file daily.
+
+Goto ISIM
+
+01 - View Requests - All Requests of type Reconciliation
+
+
+RDC to Machine - Cygwin - /cygdrive/ereg/recon and vi log.txt etc.
+ Check Task Scheduler.

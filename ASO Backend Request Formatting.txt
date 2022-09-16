@@ -1,0 +1,50 @@
+Email Subject Line (unless otherwise listed) - >eReg Request< ASO BackEnd
+Email Send To - EMEA eReg/Germany/IBM@IBMDE
+
+Add User (AU)
+AU;Ocean;FR109490;Ocean;I;107442706;109490;706;Lopes;Henrique;;Ocean;FR107442;;;;; 			(One that I used on Ocean Side)
+AU;IDPUS;US7J6982;IDPUS;I;7J6982897;7J6982;897;Phares1;Scott;;IBMMail;BHAU1406;;;;IBMMail;		(Got this from Scott)
+AU;IDPAM;MX108765;IDPAM;I;108765781;108765;781;Echenagucia;Mauricio Torres;;IBMMail;TONNY;;;;IBMMail;	(Got this from Scott)
+
+Alias Change (AC)
+AC;[IBMxx/Ocean];[SHORTNAME];ADD;SHORT;;[NEW-ALIAS]					(adds a new Shortname alias)
+AC;[IBMxx/Ocean];[SHORTNAME];ADD;LONG;;[NEW-ALIAS] 					(adds a new Longname alias)
+AC;[IBMxx/Ocean];[SHORTNAME];DELETE;SHORT;[OLD-ALIAS];;					(removes a Shortname alias)
+AC;[IBMxx/Ocean];[SHORTNAME];DELETE;LONG;[OLD-ALIAS];; 					(removes a Longame alias)
+AC;[IBMxx/Ocean];[SHORTNAME];CHANGE;E­MAIL;[OLD-EMAIL-ADDRESS];[NEW-EMAIL-ADDRESS]	(changes email alias)
+AC;[IBMxx/Ocean];[SHORTNAME];CHANGE;INTERNET;[OLD-EMAIL-ADDRESS];[NEW-EMAIL-ADDRESS] 	(changes the internet alias)
+
+The last two requests actually have the same effect, because right now, Ereg syncs e-mail and internet address.
+
+Password Resend
+PW;[IDPXX/Ocean];[UserShortName];9;[MgrShortName];[IDPXX/Ocean];
+PW;[IDPXX/Ocean];[UserShortName];9;[Alternate SendTo Full Name];; - To send the password resend to an alternate user versus Manager Short Name.
+
+Revoke User (RV)
+RV;[IDPxx/Ocean];[SHORTNAME]
+
+Kill User (KU)
+KU;[IDPxx/Ocean];[SHORTNAME]
+
+Restore User - Email Subject Line - ">eReg Request< EMPNUM UPDATE"
+restore
+[IBMxx/Ocean];[HUH74707]
+
+Rename
+New Longname: (special flag = "LONG")
+	RN;IBMXX;USERID;LONG;New Lastname;New Firstname;New Middle;
+New Shortname: (special flag = "SHORT")
+	RN;IBMXX;USERID;SHORT;NEWSHORTN;;;
+
+
+Rebuild
+RB;IDPIN;IN0024ZQ;;Pothuganti Abdulla/India/IBM;;1; 			(Example from Scott)
+RB;<domain>;<shortname>;;<Notes Long Name>;;1;				(Example from Scott)
+
+RB;[IDPxx/Ocean];[SHORTNAME];[NewLastname];[MgrAddress];;[IdFile]	(New Lastname)
+RB;[IDPxx/Ocean];[SHORTNAME];[];[MgrAddress];;[IdFile]			(Same Lastname (new lastname is empty))
+RB;[IDPxx/Ocean];[SHORTNAME];[­];[MgrAddress];;[IdFile]			(Remove Middle Initial (new lastname is "-"))
+RB;[IDPxx/Ocean];[SHORTNAME];[NewLastname];[MgrID];[MgrDomain];[IdFile]	(Instead of MgrAddress you may also specify MgrID and MgrDomain, so for example)
+
+Last Parameter IdFile may be “1” (= Create Id File) or “0” (= No Id File, remove certificate, id + pw if available) 
+	or just empty.  If IdFile is empty, the user Id will be rebuild as is (I. e. with or without Id file)
